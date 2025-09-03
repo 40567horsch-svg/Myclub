@@ -1,6 +1,6 @@
-# ReplaceCourseNumber - ReplaceProjectName
+# CTS1831C - myClub Lab
 
-Git repository for ReplaceFullName - ReplaceCurrentDateTime
+Git repository for Isaiah Hornstein - Wednesday September 3, 2025 @ 10:00 AM
 
 ## Table of contents
 
