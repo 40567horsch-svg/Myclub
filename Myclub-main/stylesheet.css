@@ -4,7 +4,7 @@
 }
 @font-face {
 	font-family: custom2;
-	src: url(cts-1831c-myclub-lab-40567horsch-svg/Myclub-main/Monas-BLBW8);
+	src: url(cts-1831c-myclub-lab-40567horsch-svg/Myclub-main/Monas-BLBW8.ttf);
 }
 body {
 	background-color: lightblue;
@@ -34,3 +34,4 @@ nav ul li:visited{
 #mn {
 	float: right;
 }
+
