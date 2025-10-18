@@ -1,0 +1,36 @@
+@font-face {
+	font-family: custom1;
+	src: url(cts-1831c-myclub-lab-40567horsch-svg/Myclub-main/ShinyCrystal-Yq3z4.ttf);
+}
+@font-face {
+	font-family: custom2;
+	src: url(cts-1831c-myclub-lab-40567horsch-svg/Myclub-main/Monas-BLBW8.ttf);
+}
+body {
+	background-color: lightblue;
+	color: red;
+	font-family: custom1, serif, Arial;
+}
+header {
+	margin: 0 0 0 0;
+	font-family: custom2, serif Arial;
+}
+nav ul li {
+    list-style-type: none;
+	display: inline;
+}
+nav ul li:hover {
+	color: gainsboro;
+}
+nav ul li:link{
+	color:blue;
+}
+nav ul li:visited{
+	color:black;
+}
+#sect {
+	float: left;
+}
+#mn {
+	float: right;
+}
